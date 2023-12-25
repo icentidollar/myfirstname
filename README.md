@@ -9,6 +9,7 @@
 
 **错误原因：**
 **考虑镜像源是否正确，22.04版本因该换jammy源，因误换focal源导致出错**
+
 **解决办法：**
 **更换最新的源**
 
@@ -18,6 +19,7 @@
 
 **错误原因：**
 **下载的文件太大**
+
 **解决办法：**
 **减少克隆分支的高度默认克隆主分支，再进行其他的分支的下载**
 
@@ -27,15 +29,15 @@
 
 **解决方法：按住Esc键，再按住shift+：，输入wq，即为保存，这是一个常用的快捷键**
 
-5
+5在配置anaconda环境时出错
 ==
-**在配置anaconda时出现报错**
+**conda:未找到命令**
 **解决方法：**
 **虚拟机内存不够，重新开了一个内存更大的虚拟机**
 
-6
+6安装opencv时报错：
 ==
-**安装opencv时报错：**
+**报错代码：**
 
 **Package opencv was not found in the pkg-config search path.**
 **Perhaps you should add the directory containing `opencv.pc'**
