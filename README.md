@@ -2,7 +2,7 @@
 ==
 **不能将虚拟机外部的文本复制到虚拟机内部**
 **解决方法：**
-！[](https://github.com/icentidollar/myfirstname/blob/main/image-20231225192420012.png)
+![](https://github.com/icentidollar/myfirstname/blob/main/image-20231225192420012.png)
 
 2安装anaconda时报错
 ==
